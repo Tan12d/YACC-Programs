@@ -3,4 +3,7 @@
 ## T→ T * F | T / F | F
 ## F→ ( E ) | ID
 
-![D.png]()
+## Output:
+
+###  Enter infix expression: 3 * 4 + 1
+###  3 4 * 1 +
